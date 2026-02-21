@@ -395,4 +395,15 @@ header img {
     margin-left: 0;
     margin-right: 15px;
   }
+  
+  .booking-section {
+  flex-direction: column;
+  gap: 20px;
+}
+
+.pickup,
+.pick-off {
+  flex-direction: column;
+}
+
 }
