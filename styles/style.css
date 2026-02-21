@@ -350,7 +350,7 @@ header img {
   }
 
   .nav-right {
-    display: block;
+    display: none;
   }
 
   .spot,
